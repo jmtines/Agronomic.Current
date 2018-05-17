@@ -135,7 +135,7 @@
       <Project>{c1aae369-e702-4952-a969-d90995ad8b98}</Project>
       <Name>BusinessLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="SharedLayer\SharedLayer.vbproj">
+    <ProjectReference Include="..\SharedLayer\SharedLayer.vbproj">
       <Project>{9b537336-92da-417b-8743-4fceabfe3a05}</Project>
       <Name>SharedLayer</Name>
     </ProjectReference>
